@@ -1,0 +1,17 @@
+html, div, body{ 
+    background: url("../images/dark-honeycomb.png");
+    /* background-repeat: no-repeat;
+    height:100%;
+    background-position: center;
+    text-align:center;
+    margin:0px;
+    padding:0;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+  }
+
+  .rating{
+      width: 100px auto !important;
+  }
